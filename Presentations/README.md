@@ -19,3 +19,6 @@ These meetups were around the week 1 and week 2 of [cs231 course](http://cs231n.
 
 ## 8th ML-Meetup - Ms. Chandini Jain
 Chandinin is a ex - Derivatives Trader, Optiver with 5 years of experience in finance. Worked as an Analyst with Deutsche Bank prior to joining Optiver in Chicago where we employed data science and statistical models to trade various products. In this talk, she discussed how people with ML, data and math skill and no finance domain knowledge can use the modeling techniques in their field to write successful trading strategies. 
+
+## 9th Meetup - Twitter Sentiment Analysis
+[Gursimran](https://github.com/gursimar) and [Bhanu](https://github.com/bhanu-mnit) took a hands-on session on twitter sentiment analysis. The meetup spanned from setting up the twitter API account, fetching the tweets via twitter-python API and then analyzing the sentiment of these tweets whether negative, positive or neutral.
